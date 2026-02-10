@@ -1,0 +1,5 @@
+{
+  "name": "DeployMaster: React Deployment Guide",
+  "description": "An interactive guide and AI-powered assistant to help you deploy your React applications from AI Studio to professional hosting platforms like Vercel, Netlify, and GitHub Pages.",
+  "requestFramePermissions": []
+}
